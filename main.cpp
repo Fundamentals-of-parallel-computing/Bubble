@@ -7,7 +7,7 @@
 #include <random>
 #include <vector>
 
-#define THREADS 4
+#define THREADS 8
 
 class Sorter {
 public:
